@@ -1,0 +1,1001 @@
+post_id,post_text,event_type,timestamp
+1,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,17-08-2025 07:02
+2,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,27-06-2025 21:54
+3,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,26-08-2025 02:15
+4,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,04-07-2025 22:15
+5,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,26-08-2025 05:01
+6,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,27-07-2025 03:09
+7,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,25-08-2025 00:11
+8,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,16-07-2025 19:29
+9,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,14-09-2025 08:03
+10,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,03-08-2025 00:30
+11,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,25-06-2025 00:55
+12,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,18-08-2025 13:51
+13,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,31-07-2025 10:09
+14,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,01-08-2025 19:16
+15,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,19-07-2025 03:52
+16,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,08-07-2025 02:17
+17,The annual swimming gala is next week. Time to hit the pool!,sports_event,20-07-2025 20:08
+18,The annual job fair is happening today. Networking with some great companies!,other_event,17-09-2025 15:23
+19,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,29-08-2025 15:01
+20,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,19-07-2025 20:55
+21,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,21-07-2025 17:52
+22,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,28-07-2025 04:33
+23,The annual job fair is happening today. Networking with some great companies!,other_event,17-09-2025 20:12
+24,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,25-06-2025 15:09
+25,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,31-08-2025 09:52
+26,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,12-08-2025 13:46
+27,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,25-06-2025 07:28
+28,Went to the film festival. The short films were incredibly creative.,other_event,27-07-2025 13:55
+29,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,22-06-2025 20:39
+30,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,19-09-2025 14:25
+31,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,05-09-2025 10:22
+32,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,21-08-2025 21:54
+33,The annual job fair is happening today. Networking with some great companies!,other_event,25-06-2025 06:45
+34,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,28-07-2025 06:12
+35,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,04-09-2025 23:55
+36,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,11-09-2025 02:40
+37,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,09-07-2025 08:49
+38,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,04-08-2025 09:19
+39,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,04-09-2025 00:10
+40,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,28-07-2025 04:31
+41,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,09-07-2025 19:01
+42,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,08-08-2025 02:20
+43,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,26-06-2025 22:51
+44,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,20-08-2025 23:01
+45,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,27-06-2025 07:33
+46,The annual swimming gala is next week. Time to hit the pool!,sports_event,04-08-2025 19:16
+47,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,19-07-2025 17:48
+48,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,18-08-2025 08:50
+49,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,04-08-2025 02:19
+50,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,06-08-2025 01:58
+51,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,10-08-2025 15:40
+52,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,09-09-2025 02:15
+53,The annual job fair is happening today. Networking with some great companies!,other_event,10-07-2025 05:31
+54,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,27-07-2025 17:59
+55,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,06-08-2025 20:02
+56,The annual swimming gala is next week. Time to hit the pool!,sports_event,22-08-2025 05:03
+57,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,10-08-2025 15:24
+58,The annual swimming gala is next week. Time to hit the pool!,sports_event,06-09-2025 20:50
+59,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,12-09-2025 11:18
+60,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,07-07-2025 02:55
+61,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,10-08-2025 17:54
+62,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,13-08-2025 19:21
+63,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,10-09-2025 14:18
+64,The annual job fair is happening today. Networking with some great companies!,other_event,25-06-2025 14:13
+65,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,09-07-2025 21:07
+66,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,30-06-2025 20:45
+67,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,01-08-2025 14:51
+68,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,28-08-2025 21:09
+69,The annual job fair is happening today. Networking with some great companies!,other_event,01-08-2025 11:35
+70,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,29-08-2025 13:26
+71,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,03-09-2025 21:02
+72,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,08-08-2025 11:37
+73,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,15-09-2025 20:06
+74,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,26-08-2025 05:25
+75,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,14-09-2025 11:51
+76,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,09-08-2025 01:07
+77,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,09-07-2025 05:59
+78,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,16-08-2025 18:42
+79,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,14-09-2025 00:07
+80,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,21-08-2025 02:06
+81,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,11-07-2025 09:58
+82,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,10-07-2025 14:21
+83,It's Sports Day! Watching the track and field events now.,sports_event,22-08-2025 10:44
+84,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,04-07-2025 13:24
+85,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,02-07-2025 04:11
+86,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,15-08-2025 03:46
+87,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,04-07-2025 08:55
+88,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,07-09-2025 03:09
+89,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,18-07-2025 10:45
+90,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,18-08-2025 19:05
+91,The annual job fair is happening today. Networking with some great companies!,other_event,12-08-2025 20:39
+92,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,09-09-2025 19:17
+93,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,17-09-2025 01:52
+94,It's Sports Day! Watching the track and field events now.,sports_event,29-06-2025 22:50
+95,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,31-08-2025 03:12
+96,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,21-07-2025 03:39
+97,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,08-09-2025 13:29
+98,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,27-06-2025 13:20
+99,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,01-07-2025 02:12
+100,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,03-09-2025 14:29
+101,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,03-08-2025 01:38
+102,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,22-06-2025 10:42
+103,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,07-07-2025 14:14
+104,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,15-09-2025 08:53
+105,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,05-08-2025 21:34
+106,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,06-08-2025 20:58
+107,Excited for the startup pitching competition. So many innovative ideas!,other_event,03-09-2025 05:11
+108,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,28-06-2025 17:51
+109,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,14-07-2025 00:26
+110,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,29-06-2025 23:45
+111,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,23-06-2025 09:31
+112,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,27-06-2025 04:35
+113,Excited for the startup pitching competition. So many innovative ideas!,other_event,21-08-2025 06:56
+114,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,31-07-2025 05:30
+115,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,06-07-2025 08:32
+116,The annual job fair is happening today. Networking with some great companies!,other_event,22-07-2025 14:51
+117,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,15-08-2025 09:47
+118,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,03-08-2025 20:01
+119,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,21-07-2025 04:35
+120,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,23-07-2025 09:41
+121,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,02-08-2025 10:51
+122,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,19-07-2025 17:57
+123,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,25-07-2025 21:49
+124,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,10-07-2025 11:13
+125,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,30-06-2025 17:50
+126,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,30-06-2025 04:46
+127,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,12-07-2025 21:41
+128,Excited for the startup pitching competition. So many innovative ideas!,other_event,27-07-2025 08:54
+129,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,17-08-2025 13:17
+130,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,02-08-2025 05:50
+131,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,03-09-2025 16:51
+132,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,28-07-2025 02:49
+133,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,31-08-2025 17:01
+134,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,28-07-2025 11:40
+135,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,30-07-2025 01:22
+136,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,24-07-2025 15:20
+137,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,18-07-2025 16:03
+138,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,01-07-2025 07:57
+139,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,07-09-2025 17:11
+140,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,07-09-2025 05:45
+141,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,03-08-2025 19:01
+142,It's Sports Day! Watching the track and field events now.,sports_event,20-07-2025 19:54
+143,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,17-09-2025 15:45
+144,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,19-07-2025 13:55
+145,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,07-08-2025 12:48
+146,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,16-08-2025 06:21
+147,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,10-07-2025 13:50
+148,The annual job fair is happening today. Networking with some great companies!,other_event,14-07-2025 02:01
+149,The annual swimming gala is next week. Time to hit the pool!,sports_event,29-06-2025 05:43
+150,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,08-09-2025 14:44
+151,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,30-08-2025 10:10
+152,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,07-08-2025 10:43
+153,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,30-08-2025 12:18
+154,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,15-08-2025 04:26
+155,Went to the film festival. The short films were incredibly creative.,other_event,03-09-2025 18:21
+156,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,02-09-2025 02:27
+157,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,08-09-2025 02:52
+158,The annual swimming gala is next week. Time to hit the pool!,sports_event,17-07-2025 07:49
+159,The annual swimming gala is next week. Time to hit the pool!,sports_event,16-09-2025 15:15
+160,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,18-07-2025 11:04
+161,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,23-08-2025 09:43
+162,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,01-09-2025 06:51
+163,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,11-07-2025 22:34
+164,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,18-09-2025 01:52
+165,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,27-06-2025 08:36
+166,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,12-08-2025 11:11
+167,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,23-08-2025 14:23
+168,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,02-07-2025 21:03
+169,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,05-08-2025 20:58
+170,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,14-09-2025 10:08
+171,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,30-06-2025 21:51
+172,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,12-08-2025 10:23
+173,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,06-08-2025 08:41
+174,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,29-06-2025 04:14
+175,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,25-07-2025 03:43
+176,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,27-08-2025 04:17
+177,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,17-07-2025 14:00
+178,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,07-08-2025 22:16
+179,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,11-07-2025 11:30
+180,Excited for the startup pitching competition. So many innovative ideas!,other_event,09-07-2025 03:05
+181,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,07-08-2025 04:22
+182,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,11-08-2025 05:41
+183,It's Sports Day! Watching the track and field events now.,sports_event,31-08-2025 17:43
+184,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,25-07-2025 18:03
+185,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,10-07-2025 04:16
+186,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,11-07-2025 00:12
+187,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,07-07-2025 08:48
+188,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,30-06-2025 03:53
+189,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,27-08-2025 06:03
+190,The annual job fair is happening today. Networking with some great companies!,other_event,05-09-2025 21:16
+191,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,01-09-2025 13:43
+192,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,26-07-2025 23:11
+193,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,09-08-2025 22:09
+194,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,03-08-2025 12:45
+195,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,07-07-2025 17:06
+196,Went to the film festival. The short films were incredibly creative.,other_event,15-07-2025 18:08
+197,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,15-07-2025 20:30
+198,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,21-06-2025 21:45
+199,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,11-08-2025 10:48
+200,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,07-08-2025 07:59
+201,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,17-08-2025 11:08
+202,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,01-08-2025 22:41
+203,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,18-07-2025 16:26
+204,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,18-08-2025 05:30
+205,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,02-09-2025 23:43
+206,It's Sports Day! Watching the track and field events now.,sports_event,29-07-2025 08:19
+207,The annual swimming gala is next week. Time to hit the pool!,sports_event,14-08-2025 09:35
+208,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,23-06-2025 02:04
+209,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,07-07-2025 08:07
+210,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,04-07-2025 13:54
+211,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,24-07-2025 05:18
+212,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,27-07-2025 09:58
+213,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,07-07-2025 20:32
+214,The annual swimming gala is next week. Time to hit the pool!,sports_event,07-08-2025 18:38
+215,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,08-08-2025 16:26
+216,Excited for the startup pitching competition. So many innovative ideas!,other_event,31-07-2025 23:10
+217,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,21-07-2025 21:32
+218,Went to the film festival. The short films were incredibly creative.,other_event,29-07-2025 17:17
+219,Went to the film festival. The short films were incredibly creative.,other_event,07-09-2025 17:09
+220,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,18-07-2025 17:30
+221,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,03-08-2025 13:18
+222,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,24-07-2025 02:52
+223,It's Sports Day! Watching the track and field events now.,sports_event,21-07-2025 14:12
+224,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,10-09-2025 10:00
+225,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,28-07-2025 09:23
+226,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,05-09-2025 23:52
+227,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,14-08-2025 20:25
+228,The annual job fair is happening today. Networking with some great companies!,other_event,30-06-2025 00:55
+229,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,24-06-2025 10:01
+230,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,05-08-2025 12:40
+231,The annual job fair is happening today. Networking with some great companies!,other_event,29-07-2025 14:51
+232,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,25-08-2025 15:59
+233,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,14-08-2025 05:22
+234,It's Sports Day! Watching the track and field events now.,sports_event,01-09-2025 06:19
+235,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,16-09-2025 19:55
+236,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,04-09-2025 10:19
+237,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,05-09-2025 03:51
+238,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,09-09-2025 17:20
+239,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,28-08-2025 22:52
+240,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,13-09-2025 12:30
+241,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,08-07-2025 09:16
+242,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,30-06-2025 00:21
+243,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,30-06-2025 17:42
+244,The annual swimming gala is next week. Time to hit the pool!,sports_event,04-09-2025 17:59
+245,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,31-07-2025 01:22
+246,The annual job fair is happening today. Networking with some great companies!,other_event,30-07-2025 20:48
+247,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,04-08-2025 12:06
+248,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,02-07-2025 20:17
+249,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,22-08-2025 08:40
+250,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,04-09-2025 09:50
+251,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,06-09-2025 04:29
+252,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,24-07-2025 02:27
+253,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,02-08-2025 06:20
+254,Went to the film festival. The short films were incredibly creative.,other_event,20-07-2025 21:41
+255,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,27-06-2025 06:37
+256,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,07-07-2025 21:09
+257,The annual swimming gala is next week. Time to hit the pool!,sports_event,31-08-2025 01:28
+258,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,15-08-2025 13:24
+259,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,03-09-2025 12:30
+260,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,31-07-2025 05:48
+261,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,09-08-2025 21:35
+262,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,25-06-2025 09:46
+263,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,03-07-2025 19:13
+264,The annual swimming gala is next week. Time to hit the pool!,sports_event,09-07-2025 04:58
+265,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,29-07-2025 17:17
+266,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,30-08-2025 04:01
+267,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,19-08-2025 05:28
+268,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,28-07-2025 18:25
+269,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,10-09-2025 12:54
+270,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,25-08-2025 11:47
+271,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,25-07-2025 03:27
+272,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,18-08-2025 09:08
+273,The annual job fair is happening today. Networking with some great companies!,other_event,08-09-2025 05:26
+274,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,15-07-2025 17:42
+275,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,21-07-2025 19:18
+276,The annual job fair is happening today. Networking with some great companies!,other_event,24-06-2025 11:13
+277,The annual swimming gala is next week. Time to hit the pool!,sports_event,23-08-2025 00:25
+278,Went to the film festival. The short films were incredibly creative.,other_event,24-07-2025 17:22
+279,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,27-07-2025 17:57
+280,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,02-09-2025 19:35
+281,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,01-09-2025 05:30
+282,The annual job fair is happening today. Networking with some great companies!,other_event,09-07-2025 15:37
+283,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,01-08-2025 14:22
+284,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,07-08-2025 00:05
+285,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,09-07-2025 03:19
+286,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,23-08-2025 21:28
+287,The annual swimming gala is next week. Time to hit the pool!,sports_event,08-07-2025 15:47
+288,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,01-09-2025 00:24
+289,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,01-07-2025 08:09
+290,The annual job fair is happening today. Networking with some great companies!,other_event,31-08-2025 00:30
+291,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,04-09-2025 19:22
+292,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,21-07-2025 08:51
+293,Went to the film festival. The short films were incredibly creative.,other_event,30-07-2025 22:43
+294,The annual swimming gala is next week. Time to hit the pool!,sports_event,20-08-2025 10:02
+295,Excited for the startup pitching competition. So many innovative ideas!,other_event,04-08-2025 18:01
+296,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,05-08-2025 20:50
+297,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,30-07-2025 15:52
+298,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,12-08-2025 03:56
+299,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,17-08-2025 18:06
+300,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,30-08-2025 22:45
+301,Went to the film festival. The short films were incredibly creative.,other_event,21-08-2025 10:55
+302,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,16-09-2025 02:47
+303,Went to the film festival. The short films were incredibly creative.,other_event,17-07-2025 02:41
+304,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,11-09-2025 04:05
+305,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,26-06-2025 04:23
+306,Excited for the startup pitching competition. So many innovative ideas!,other_event,08-07-2025 10:18
+307,It's Sports Day! Watching the track and field events now.,sports_event,09-09-2025 00:09
+308,Went to the film festival. The short films were incredibly creative.,other_event,02-07-2025 13:09
+309,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,15-07-2025 08:11
+310,It's Sports Day! Watching the track and field events now.,sports_event,02-07-2025 14:17
+311,Went to the film festival. The short films were incredibly creative.,other_event,06-07-2025 09:44
+312,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,25-07-2025 21:56
+313,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,17-07-2025 21:45
+314,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,08-07-2025 04:24
+315,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,17-07-2025 22:35
+316,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,04-08-2025 14:42
+317,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,02-07-2025 21:39
+318,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,21-08-2025 02:02
+319,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,08-09-2025 20:48
+320,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,17-09-2025 11:45
+321,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,16-07-2025 16:52
+322,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,21-08-2025 17:58
+323,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,05-08-2025 03:22
+324,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,27-06-2025 06:51
+325,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,04-07-2025 00:20
+326,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,29-07-2025 18:03
+327,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,19-09-2025 13:15
+328,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,05-08-2025 19:31
+329,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,25-07-2025 06:23
+330,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,04-07-2025 12:20
+331,The annual job fair is happening today. Networking with some great companies!,other_event,09-08-2025 10:02
+332,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,09-08-2025 22:57
+333,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,23-06-2025 03:11
+334,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,06-09-2025 19:32
+335,It's Sports Day! Watching the track and field events now.,sports_event,22-06-2025 23:48
+336,The annual swimming gala is next week. Time to hit the pool!,sports_event,18-07-2025 00:31
+337,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,05-08-2025 23:49
+338,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,12-09-2025 04:21
+339,The annual swimming gala is next week. Time to hit the pool!,sports_event,24-08-2025 02:55
+340,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,08-08-2025 17:01
+341,Excited for the startup pitching competition. So many innovative ideas!,other_event,06-07-2025 00:16
+342,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,17-08-2025 11:51
+343,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,21-07-2025 08:02
+344,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,20-08-2025 22:13
+345,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,15-08-2025 07:59
+346,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,26-06-2025 06:52
+347,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,27-07-2025 00:41
+348,It's Sports Day! Watching the track and field events now.,sports_event,16-09-2025 18:22
+349,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,21-08-2025 11:21
+350,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,24-08-2025 13:35
+351,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,26-07-2025 11:05
+352,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,12-09-2025 07:18
+353,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,09-08-2025 13:47
+354,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,22-07-2025 07:19
+355,Excited for the startup pitching competition. So many innovative ideas!,other_event,22-07-2025 01:28
+356,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,31-08-2025 19:57
+357,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,22-06-2025 08:10
+358,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,29-07-2025 15:24
+359,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,22-07-2025 22:52
+360,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,26-08-2025 03:52
+361,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,25-06-2025 20:46
+362,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,18-07-2025 18:02
+363,The annual job fair is happening today. Networking with some great companies!,other_event,30-06-2025 05:04
+364,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,14-07-2025 21:02
+365,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,11-08-2025 19:52
+366,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,19-07-2025 02:42
+367,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,16-07-2025 14:33
+368,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,20-08-2025 16:27
+369,The annual job fair is happening today. Networking with some great companies!,other_event,23-06-2025 06:52
+370,The annual swimming gala is next week. Time to hit the pool!,sports_event,04-07-2025 20:18
+371,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,22-06-2025 10:15
+372,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,19-09-2025 04:35
+373,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,19-07-2025 04:26
+374,It's Sports Day! Watching the track and field events now.,sports_event,22-06-2025 07:45
+375,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,08-07-2025 03:34
+376,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,10-08-2025 09:54
+377,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,22-06-2025 14:28
+378,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,20-08-2025 17:12
+379,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,09-07-2025 09:39
+380,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,10-09-2025 02:28
+381,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,22-08-2025 13:15
+382,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,22-06-2025 01:24
+383,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,12-07-2025 12:07
+384,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,20-08-2025 15:34
+385,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,16-08-2025 05:27
+386,The annual swimming gala is next week. Time to hit the pool!,sports_event,13-08-2025 05:45
+387,Excited for the startup pitching competition. So many innovative ideas!,other_event,01-09-2025 18:58
+388,It's Sports Day! Watching the track and field events now.,sports_event,13-07-2025 15:12
+389,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,13-09-2025 18:31
+390,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,14-08-2025 19:35
+391,Excited for the startup pitching competition. So many innovative ideas!,other_event,13-08-2025 23:38
+392,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,13-09-2025 19:15
+393,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,15-07-2025 23:58
+394,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,22-06-2025 08:43
+395,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,08-07-2025 23:12
+396,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,04-08-2025 23:27
+397,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,21-07-2025 22:57
+398,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,15-07-2025 09:01
+399,Went to the film festival. The short films were incredibly creative.,other_event,29-08-2025 10:10
+400,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,17-08-2025 11:34
+401,The annual swimming gala is next week. Time to hit the pool!,sports_event,12-09-2025 08:13
+402,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,25-07-2025 09:14
+403,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,10-08-2025 02:28
+404,Excited for the startup pitching competition. So many innovative ideas!,other_event,15-09-2025 14:25
+405,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,26-07-2025 09:52
+406,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,02-09-2025 05:57
+407,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,04-07-2025 03:40
+408,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,24-08-2025 20:32
+409,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,18-09-2025 23:53
+410,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,07-09-2025 12:57
+411,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,11-09-2025 23:22
+412,Went to the film festival. The short films were incredibly creative.,other_event,03-09-2025 03:58
+413,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,12-08-2025 02:01
+414,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,13-08-2025 14:04
+415,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,04-07-2025 03:06
+416,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,04-07-2025 02:47
+417,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,17-08-2025 12:22
+418,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,18-07-2025 13:29
+419,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,03-09-2025 22:06
+420,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,24-06-2025 07:18
+421,The annual job fair is happening today. Networking with some great companies!,other_event,23-07-2025 17:08
+422,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,14-08-2025 19:15
+423,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,25-07-2025 03:19
+424,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,19-08-2025 15:33
+425,Went to the film festival. The short films were incredibly creative.,other_event,22-06-2025 13:10
+426,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,11-07-2025 06:41
+427,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,30-07-2025 02:55
+428,The annual job fair is happening today. Networking with some great companies!,other_event,15-07-2025 18:26
+429,Went to the film festival. The short films were incredibly creative.,other_event,08-08-2025 10:07
+430,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,07-08-2025 08:25
+431,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,01-08-2025 20:30
+432,The annual swimming gala is next week. Time to hit the pool!,sports_event,22-06-2025 12:22
+433,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,19-09-2025 16:18
+434,The annual job fair is happening today. Networking with some great companies!,other_event,24-06-2025 08:28
+435,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,30-07-2025 20:33
+436,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,28-06-2025 20:58
+437,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,07-08-2025 06:25
+438,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,18-07-2025 20:23
+439,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,18-07-2025 18:54
+440,The annual swimming gala is next week. Time to hit the pool!,sports_event,15-08-2025 11:13
+441,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,29-08-2025 11:58
+442,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,07-08-2025 15:04
+443,It's Sports Day! Watching the track and field events now.,sports_event,11-07-2025 12:02
+444,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,10-07-2025 22:16
+445,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,06-09-2025 10:01
+446,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,30-08-2025 09:33
+447,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,15-09-2025 21:31
+448,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,17-07-2025 23:36
+449,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,30-07-2025 16:53
+450,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,22-06-2025 23:44
+451,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,21-07-2025 09:22
+452,It's Sports Day! Watching the track and field events now.,sports_event,11-09-2025 15:49
+453,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,03-07-2025 00:34
+454,The annual swimming gala is next week. Time to hit the pool!,sports_event,23-07-2025 23:12
+455,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,10-09-2025 19:51
+456,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,13-09-2025 07:42
+457,The annual job fair is happening today. Networking with some great companies!,other_event,07-08-2025 23:43
+458,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,24-08-2025 20:30
+459,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,11-08-2025 18:49
+460,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,01-09-2025 07:07
+461,The annual swimming gala is next week. Time to hit the pool!,sports_event,05-07-2025 23:52
+462,Excited for the startup pitching competition. So many innovative ideas!,other_event,17-09-2025 13:23
+463,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,10-09-2025 02:26
+464,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,18-08-2025 16:43
+465,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,28-06-2025 07:21
+466,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,06-09-2025 19:16
+467,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,15-09-2025 07:13
+468,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,12-07-2025 15:40
+469,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,10-07-2025 00:23
+470,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,31-08-2025 19:58
+471,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,02-07-2025 00:28
+472,Excited for the startup pitching competition. So many innovative ideas!,other_event,02-09-2025 16:15
+473,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,23-06-2025 08:14
+474,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,30-07-2025 05:11
+475,Excited for the startup pitching competition. So many innovative ideas!,other_event,30-08-2025 11:55
+476,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,13-08-2025 19:25
+477,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,03-09-2025 12:56
+478,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,20-07-2025 23:42
+479,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,04-07-2025 05:32
+480,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,28-06-2025 02:06
+481,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,09-09-2025 08:05
+482,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,28-06-2025 10:24
+483,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,12-07-2025 18:10
+484,The annual job fair is happening today. Networking with some great companies!,other_event,20-07-2025 15:22
+485,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,08-08-2025 12:14
+486,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,03-09-2025 16:13
+487,Went to the film festival. The short films were incredibly creative.,other_event,18-07-2025 05:42
+488,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,05-08-2025 02:55
+489,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,20-07-2025 21:08
+490,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,30-06-2025 15:01
+491,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,15-08-2025 20:11
+492,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,05-09-2025 20:43
+493,Excited for the startup pitching competition. So many innovative ideas!,other_event,02-09-2025 16:57
+494,The annual swimming gala is next week. Time to hit the pool!,sports_event,19-09-2025 07:20
+495,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,26-07-2025 11:58
+496,The annual swimming gala is next week. Time to hit the pool!,sports_event,15-08-2025 05:10
+497,The annual job fair is happening today. Networking with some great companies!,other_event,10-08-2025 07:06
+498,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,07-09-2025 21:45
+499,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,13-07-2025 09:53
+500,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,03-08-2025 16:34
+501,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,31-07-2025 10:13
+502,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,23-08-2025 19:26
+503,Excited for the startup pitching competition. So many innovative ideas!,other_event,01-09-2025 11:07
+504,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,03-09-2025 22:38
+505,Excited for the startup pitching competition. So many innovative ideas!,other_event,22-07-2025 01:33
+506,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,23-08-2025 16:22
+507,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,03-07-2025 13:17
+508,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,11-09-2025 02:40
+509,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,09-09-2025 06:17
+510,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,08-08-2025 00:52
+511,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,25-06-2025 00:05
+512,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,09-08-2025 05:08
+513,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,22-07-2025 07:18
+514,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,14-07-2025 10:18
+515,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,14-09-2025 12:33
+516,Went to the film festival. The short films were incredibly creative.,other_event,10-08-2025 09:11
+517,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,15-07-2025 23:44
+518,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,06-09-2025 21:14
+519,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,03-09-2025 12:12
+520,The annual swimming gala is next week. Time to hit the pool!,sports_event,23-06-2025 05:14
+521,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,17-08-2025 03:17
+522,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,21-08-2025 22:03
+523,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,03-07-2025 14:48
+524,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,12-07-2025 13:44
+525,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,05-08-2025 18:37
+526,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,22-06-2025 23:57
+527,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,03-07-2025 15:58
+528,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,22-08-2025 11:30
+529,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,21-07-2025 00:52
+530,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,30-08-2025 19:26
+531,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,07-07-2025 05:00
+532,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,25-06-2025 05:38
+533,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,06-09-2025 04:02
+534,Excited for the startup pitching competition. So many innovative ideas!,other_event,04-08-2025 11:59
+535,The annual job fair is happening today. Networking with some great companies!,other_event,18-07-2025 22:44
+536,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,30-06-2025 22:18
+537,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,03-09-2025 20:01
+538,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,04-09-2025 18:13
+539,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,09-07-2025 06:56
+540,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,25-06-2025 07:53
+541,Excited for the startup pitching competition. So many innovative ideas!,other_event,14-09-2025 20:59
+542,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,04-07-2025 01:39
+543,Excited for the startup pitching competition. So many innovative ideas!,other_event,24-07-2025 22:30
+544,Went to the film festival. The short films were incredibly creative.,other_event,01-09-2025 02:54
+545,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,30-08-2025 21:02
+546,The annual swimming gala is next week. Time to hit the pool!,sports_event,12-07-2025 20:02
+547,The annual job fair is happening today. Networking with some great companies!,other_event,09-08-2025 10:06
+548,Went to the film festival. The short films were incredibly creative.,other_event,01-07-2025 13:23
+549,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,01-09-2025 09:06
+550,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,01-07-2025 05:12
+551,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,09-09-2025 00:48
+552,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,23-07-2025 07:03
+553,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,08-08-2025 19:56
+554,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,12-07-2025 00:23
+555,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,13-08-2025 15:23
+556,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,09-08-2025 03:21
+557,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,22-07-2025 18:39
+558,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,15-09-2025 13:35
+559,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,10-07-2025 01:26
+560,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,29-07-2025 20:07
+561,The annual swimming gala is next week. Time to hit the pool!,sports_event,15-07-2025 04:41
+562,The annual swimming gala is next week. Time to hit the pool!,sports_event,24-08-2025 02:50
+563,Excited for the startup pitching competition. So many innovative ideas!,other_event,26-08-2025 13:11
+564,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,05-07-2025 20:05
+565,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,19-09-2025 09:11
+566,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,09-07-2025 12:36
+567,It's Sports Day! Watching the track and field events now.,sports_event,30-08-2025 20:28
+568,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,14-07-2025 09:41
+569,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,12-09-2025 08:21
+570,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,05-07-2025 19:12
+571,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,04-09-2025 05:26
+572,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,02-07-2025 16:34
+573,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,29-08-2025 23:32
+574,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,02-09-2025 23:06
+575,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,30-08-2025 22:55
+576,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,01-09-2025 21:50
+577,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,27-06-2025 10:16
+578,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,15-08-2025 22:46
+579,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,19-09-2025 01:09
+580,Excited for the startup pitching competition. So many innovative ideas!,other_event,09-08-2025 18:49
+581,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,02-07-2025 13:54
+582,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,23-08-2025 14:15
+583,Excited for the startup pitching competition. So many innovative ideas!,other_event,03-07-2025 22:47
+584,It's Sports Day! Watching the track and field events now.,sports_event,08-07-2025 14:36
+585,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,11-09-2025 06:40
+586,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,16-08-2025 13:19
+587,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,04-09-2025 20:17
+588,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,09-08-2025 03:28
+589,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,19-09-2025 07:25
+590,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,03-07-2025 09:07
+591,The annual job fair is happening today. Networking with some great companies!,other_event,05-08-2025 21:24
+592,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,11-07-2025 05:07
+593,The annual swimming gala is next week. Time to hit the pool!,sports_event,09-07-2025 08:12
+594,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,11-09-2025 15:13
+595,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,14-09-2025 15:32
+596,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,11-09-2025 06:12
+597,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,12-07-2025 17:18
+598,The annual job fair is happening today. Networking with some great companies!,other_event,27-06-2025 04:48
+599,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,02-07-2025 09:16
+600,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,12-08-2025 22:30
+601,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,16-09-2025 21:47
+602,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,17-09-2025 03:30
+603,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,19-07-2025 15:36
+604,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,17-09-2025 01:21
+605,The annual job fair is happening today. Networking with some great companies!,other_event,25-06-2025 01:43
+606,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,25-06-2025 12:21
+607,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,30-07-2025 22:35
+608,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,13-08-2025 22:42
+609,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,08-09-2025 02:34
+610,The annual swimming gala is next week. Time to hit the pool!,sports_event,17-08-2025 23:11
+611,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,17-09-2025 21:29
+612,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,22-07-2025 11:47
+613,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,30-07-2025 19:37
+614,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,13-08-2025 15:29
+615,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,16-09-2025 18:10
+616,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,11-07-2025 14:59
+617,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,16-08-2025 13:21
+618,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,20-08-2025 03:17
+619,Excited for the startup pitching competition. So many innovative ideas!,other_event,15-09-2025 19:04
+620,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,07-08-2025 19:31
+621,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,01-08-2025 14:39
+622,Excited for the startup pitching competition. So many innovative ideas!,other_event,03-07-2025 20:14
+623,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,14-08-2025 14:13
+624,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,28-08-2025 14:30
+625,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,19-09-2025 00:01
+626,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,09-07-2025 17:26
+627,The annual job fair is happening today. Networking with some great companies!,other_event,17-07-2025 04:09
+628,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,05-08-2025 00:49
+629,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,16-07-2025 04:05
+630,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,06-07-2025 19:54
+631,Went to the film festival. The short films were incredibly creative.,other_event,07-09-2025 19:35
+632,The annual swimming gala is next week. Time to hit the pool!,sports_event,23-08-2025 23:06
+633,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,23-08-2025 16:37
+634,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,23-07-2025 04:53
+635,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,08-08-2025 10:22
+636,The annual job fair is happening today. Networking with some great companies!,other_event,29-07-2025 22:13
+637,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,26-08-2025 13:08
+638,It's Sports Day! Watching the track and field events now.,sports_event,30-06-2025 11:17
+639,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,24-08-2025 12:56
+640,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,28-07-2025 11:44
+641,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,22-06-2025 00:09
+642,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,03-09-2025 08:19
+643,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,18-08-2025 07:18
+644,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,29-07-2025 02:24
+645,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,03-08-2025 22:56
+646,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,20-08-2025 04:10
+647,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,04-07-2025 10:15
+648,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,01-08-2025 08:57
+649,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,29-08-2025 10:27
+650,The annual job fair is happening today. Networking with some great companies!,other_event,29-08-2025 16:58
+651,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,25-08-2025 21:06
+652,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,13-08-2025 19:35
+653,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,23-08-2025 21:55
+654,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,03-07-2025 19:32
+655,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,16-07-2025 17:51
+656,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,04-07-2025 18:56
+657,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,26-08-2025 03:40
+658,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,20-08-2025 21:21
+659,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,06-07-2025 04:04
+660,Went to the film festival. The short films were incredibly creative.,other_event,31-07-2025 16:54
+661,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,24-06-2025 03:44
+662,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,29-07-2025 15:06
+663,The annual job fair is happening today. Networking with some great companies!,other_event,11-07-2025 22:20
+664,Excited for the startup pitching competition. So many innovative ideas!,other_event,29-07-2025 17:04
+665,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,10-09-2025 08:14
+666,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,31-08-2025 01:33
+667,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,30-06-2025 04:10
+668,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,24-06-2025 10:10
+669,Went to the film festival. The short films were incredibly creative.,other_event,25-07-2025 20:22
+670,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,22-08-2025 15:56
+671,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,07-07-2025 14:26
+672,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,08-08-2025 05:57
+673,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,11-08-2025 15:12
+674,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,18-07-2025 02:46
+675,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,15-09-2025 09:50
+676,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,12-08-2025 09:34
+677,Went to the film festival. The short films were incredibly creative.,other_event,02-07-2025 08:48
+678,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,19-07-2025 12:49
+679,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,13-07-2025 18:20
+680,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,18-07-2025 19:04
+681,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,15-09-2025 16:06
+682,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,06-09-2025 09:47
+683,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,26-06-2025 13:12
+684,The annual swimming gala is next week. Time to hit the pool!,sports_event,07-08-2025 19:57
+685,Excited for the startup pitching competition. So many innovative ideas!,other_event,15-09-2025 08:41
+686,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,02-07-2025 15:23
+687,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,24-07-2025 01:02
+688,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,11-08-2025 10:25
+689,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,30-06-2025 21:49
+690,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,16-09-2025 20:45
+691,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,29-08-2025 00:29
+692,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,30-06-2025 01:05
+693,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,20-08-2025 10:02
+694,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,13-09-2025 05:14
+695,Went to the film festival. The short films were incredibly creative.,other_event,11-08-2025 22:43
+696,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,14-08-2025 22:38
+697,Excited for the startup pitching competition. So many innovative ideas!,other_event,01-07-2025 06:59
+698,The annual swimming gala is next week. Time to hit the pool!,sports_event,31-08-2025 07:48
+699,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,07-08-2025 08:56
+700,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,08-07-2025 17:43
+701,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,28-06-2025 13:45
+702,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,17-09-2025 07:44
+703,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,24-06-2025 14:51
+704,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,25-06-2025 02:07
+705,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,24-06-2025 07:20
+706,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,16-08-2025 06:33
+707,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,21-07-2025 22:12
+708,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,23-07-2025 04:47
+709,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,10-09-2025 02:34
+710,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,07-09-2025 00:08
+711,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,19-07-2025 21:12
+712,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,16-07-2025 00:22
+713,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,08-07-2025 16:33
+714,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,05-09-2025 08:49
+715,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,13-08-2025 20:40
+716,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,12-07-2025 01:53
+717,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,14-09-2025 22:18
+718,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,09-07-2025 22:37
+719,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,15-08-2025 03:19
+720,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,13-08-2025 07:24
+721,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,13-07-2025 09:15
+722,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,06-08-2025 16:45
+723,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,19-09-2025 09:27
+724,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,06-09-2025 00:41
+725,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,09-09-2025 05:57
+726,Excited for the startup pitching competition. So many innovative ideas!,other_event,14-07-2025 04:16
+727,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,25-06-2025 12:38
+728,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,24-06-2025 05:55
+729,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,22-07-2025 11:40
+730,The annual swimming gala is next week. Time to hit the pool!,sports_event,16-07-2025 03:21
+731,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,15-07-2025 00:11
+732,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,03-09-2025 11:10
+733,Went to the film festival. The short films were incredibly creative.,other_event,06-08-2025 21:17
+734,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,24-06-2025 07:45
+735,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,28-08-2025 02:09
+736,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,30-07-2025 01:02
+737,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,10-07-2025 16:36
+738,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,05-08-2025 21:53
+739,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,05-08-2025 18:13
+740,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,01-08-2025 01:08
+741,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,24-07-2025 05:01
+742,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,28-08-2025 17:45
+743,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,07-08-2025 22:56
+744,The annual job fair is happening today. Networking with some great companies!,other_event,04-07-2025 08:43
+745,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,25-08-2025 23:32
+746,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,10-08-2025 23:42
+747,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,18-08-2025 20:34
+748,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,26-08-2025 22:06
+749,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,11-09-2025 01:11
+750,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,16-09-2025 02:15
+751,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,02-07-2025 17:27
+752,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,27-06-2025 22:35
+753,Excited for the startup pitching competition. So many innovative ideas!,other_event,16-08-2025 02:03
+754,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,30-06-2025 12:25
+755,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,02-09-2025 03:27
+756,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,20-07-2025 13:31
+757,Excited for the startup pitching competition. So many innovative ideas!,other_event,16-07-2025 14:51
+758,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,16-09-2025 18:13
+759,The annual job fair is happening today. Networking with some great companies!,other_event,10-07-2025 21:07
+760,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,31-07-2025 00:10
+761,Excited for the startup pitching competition. So many innovative ideas!,other_event,17-09-2025 02:01
+762,Excited for the startup pitching competition. So many innovative ideas!,other_event,20-07-2025 02:33
+763,Excited for the startup pitching competition. So many innovative ideas!,other_event,30-07-2025 06:59
+764,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,16-07-2025 19:33
+765,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,13-08-2025 04:13
+766,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,08-09-2025 02:51
+767,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,16-09-2025 02:11
+768,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,28-06-2025 06:12
+769,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,31-08-2025 03:20
+770,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,13-08-2025 22:33
+771,Excited for the startup pitching competition. So many innovative ideas!,other_event,10-08-2025 03:32
+772,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,16-09-2025 17:37
+773,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,29-08-2025 06:27
+774,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,07-07-2025 15:26
+775,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,01-07-2025 02:57
+776,Excited for the startup pitching competition. So many innovative ideas!,other_event,23-07-2025 03:03
+777,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,13-07-2025 04:11
+778,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,01-09-2025 12:15
+779,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,14-08-2025 12:03
+780,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,28-06-2025 14:41
+781,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,20-08-2025 17:15
+782,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,26-07-2025 10:21
+783,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,21-08-2025 22:57
+784,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,02-08-2025 03:12
+785,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,28-06-2025 00:26
+786,The annual swimming gala is next week. Time to hit the pool!,sports_event,10-09-2025 19:08
+787,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,22-06-2025 12:52
+788,Excited for the startup pitching competition. So many innovative ideas!,other_event,10-09-2025 18:53
+789,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,27-06-2025 07:03
+790,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,04-07-2025 14:57
+791,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,02-08-2025 04:17
+792,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,25-07-2025 19:36
+793,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,27-07-2025 01:03
+794,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,05-07-2025 02:23
+795,The annual swimming gala is next week. Time to hit the pool!,sports_event,06-08-2025 04:50
+796,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,21-07-2025 03:09
+797,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,06-08-2025 00:25
+798,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,02-09-2025 13:59
+799,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,03-08-2025 09:39
+800,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,25-07-2025 21:19
+801,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,16-09-2025 20:49
+802,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,10-09-2025 09:46
+803,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,05-08-2025 22:29
+804,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,14-09-2025 18:15
+805,It's Sports Day! Watching the track and field events now.,sports_event,24-08-2025 12:26
+806,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,27-07-2025 10:31
+807,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,23-07-2025 20:29
+808,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,17-07-2025 23:08
+809,The annual job fair is happening today. Networking with some great companies!,other_event,01-08-2025 07:33
+810,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,22-07-2025 13:35
+811,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,23-08-2025 14:25
+812,Went to the film festival. The short films were incredibly creative.,other_event,09-08-2025 16:22
+813,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,26-06-2025 23:02
+814,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,03-08-2025 18:51
+815,Excited for the startup pitching competition. So many innovative ideas!,other_event,09-08-2025 00:54
+816,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,17-07-2025 10:26
+817,The annual job fair is happening today. Networking with some great companies!,other_event,01-09-2025 07:44
+818,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,07-08-2025 23:08
+819,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,29-08-2025 23:26
+820,Excited for the startup pitching competition. So many innovative ideas!,other_event,04-07-2025 04:30
+821,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,05-08-2025 22:12
+822,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,14-08-2025 20:36
+823,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,24-08-2025 19:02
+824,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,22-06-2025 03:37
+825,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,30-06-2025 21:33
+826,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,24-07-2025 10:21
+827,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,22-06-2025 02:50
+828,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,12-07-2025 18:29
+829,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,18-08-2025 13:02
+830,Went to the film festival. The short films were incredibly creative.,other_event,21-08-2025 16:28
+831,Excited for the startup pitching competition. So many innovative ideas!,other_event,26-06-2025 00:18
+832,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,28-07-2025 11:39
+833,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,29-06-2025 11:00
+834,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,11-07-2025 15:45
+835,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,24-08-2025 08:33
+836,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,05-09-2025 06:43
+837,Went to the film festival. The short films were incredibly creative.,other_event,29-06-2025 17:31
+838,It's Sports Day! Watching the track and field events now.,sports_event,18-07-2025 21:35
+839,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,09-09-2025 22:43
+840,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,02-09-2025 05:19
+841,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,09-07-2025 05:49
+842,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,28-06-2025 11:17
+843,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,19-07-2025 03:11
+844,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,12-07-2025 04:30
+845,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,31-07-2025 05:46
+846,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,04-07-2025 11:07
+847,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,13-07-2025 15:05
+848,The annual job fair is happening today. Networking with some great companies!,other_event,22-07-2025 17:55
+849,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,26-07-2025 08:33
+850,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,22-06-2025 22:24
+851,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,27-08-2025 06:32
+852,The annual swimming gala is next week. Time to hit the pool!,sports_event,14-07-2025 18:33
+853,The annual swimming gala is next week. Time to hit the pool!,sports_event,17-07-2025 10:14
+854,The annual swimming gala is next week. Time to hit the pool!,sports_event,25-06-2025 23:18
+855,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,30-06-2025 19:04
+856,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,22-08-2025 21:18
+857,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,05-09-2025 12:42
+858,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,19-08-2025 23:33
+859,The annual job fair is happening today. Networking with some great companies!,other_event,15-07-2025 03:46
+860,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,04-07-2025 20:38
+861,The annual job fair is happening today. Networking with some great companies!,other_event,16-08-2025 19:14
+862,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,30-07-2025 11:38
+863,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,26-06-2025 02:20
+864,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,23-06-2025 06:28
+865,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,27-07-2025 12:38
+866,It's Sports Day! Watching the track and field events now.,sports_event,04-07-2025 11:33
+867,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,24-07-2025 23:52
+868,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,16-07-2025 02:34
+869,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,11-07-2025 09:08
+870,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,18-08-2025 13:35
+871,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,05-09-2025 21:49
+872,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,05-09-2025 04:16
+873,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,25-06-2025 05:59
+874,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,11-08-2025 12:22
+875,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,30-07-2025 03:14
+876,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,07-09-2025 15:52
+877,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,22-08-2025 05:16
+878,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,08-07-2025 07:27
+879,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,24-06-2025 06:50
+880,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,04-07-2025 11:48
+881,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,03-09-2025 03:01
+882,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,03-08-2025 14:29
+883,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,15-07-2025 10:13
+884,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,17-07-2025 12:00
+885,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,04-09-2025 12:00
+886,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,09-09-2025 23:37
+887,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,06-08-2025 07:04
+888,It's Sports Day! Watching the track and field events now.,sports_event,05-08-2025 05:31
+889,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,11-07-2025 22:22
+890,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,02-08-2025 09:24
+891,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,18-08-2025 22:13
+892,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,02-09-2025 15:57
+893,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,22-08-2025 23:18
+894,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,25-07-2025 02:54
+895,Excited for the startup pitching competition. So many innovative ideas!,other_event,09-09-2025 03:30
+896,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,18-07-2025 03:47
+897,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,28-08-2025 00:19
+898,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,26-08-2025 04:03
+899,The annual swimming gala is next week. Time to hit the pool!,sports_event,24-08-2025 00:55
+900,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,30-07-2025 09:39
+901,The annual swimming gala is next week. Time to hit the pool!,sports_event,29-07-2025 14:56
+902,The annual swimming gala is next week. Time to hit the pool!,sports_event,17-09-2025 20:20
+903,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,17-07-2025 11:58
+904,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,08-08-2025 13:23
+905,The annual job fair is happening today. Networking with some great companies!,other_event,15-08-2025 01:12
+906,The annual job fair is happening today. Networking with some great companies!,other_event,13-09-2025 07:03
+907,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,21-06-2025 20:03
+908,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,10-09-2025 04:59
+909,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,08-08-2025 10:35
+910,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,10-09-2025 11:17
+911,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,23-08-2025 16:32
+912,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,08-09-2025 12:44
+913,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,19-08-2025 09:12
+914,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,19-09-2025 06:33
+915,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,22-07-2025 10:25
+916,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,29-07-2025 23:26
+917,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,07-07-2025 06:31
+918,It's Sports Day! Watching the track and field events now.,sports_event,12-09-2025 18:54
+919,Another great robotics workshop. My line-follower bot is almost ready! 🤖,workshop,17-07-2025 10:28
+920,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,19-07-2025 05:41
+921,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,08-09-2025 00:51
+922,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,04-07-2025 15:15
+923,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,29-08-2025 04:56
+924,Excited for the startup pitching competition. So many innovative ideas!,other_event,06-09-2025 14:31
+925,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,05-07-2025 07:13
+926,It's Sports Day! Watching the track and field events now.,sports_event,09-07-2025 06:11
+927,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,24-07-2025 18:27
+928,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,18-07-2025 17:25
+929,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,07-07-2025 11:52
+930,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,30-07-2025 17:13
+931,The annual swimming gala is next week. Time to hit the pool!,sports_event,13-09-2025 14:03
+932,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,17-08-2025 06:46
+933,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,08-07-2025 07:32
+934,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,08-07-2025 01:09
+935,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,09-08-2025 05:56
+936,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,28-07-2025 21:31
+937,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,30-07-2025 00:50
+938,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,06-09-2025 12:18
+939,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,31-07-2025 22:58
+940,The annual swimming gala is next week. Time to hit the pool!,sports_event,19-07-2025 23:00
+941,The hackathon is on! My team is fueled by pizza and coffee. 🍕☕,hackathon,01-09-2025 05:03
+942,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,14-09-2025 17:00
+943,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,23-08-2025 12:58
+944,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,03-09-2025 16:25
+945,The annual swimming gala is next week. Time to hit the pool!,sports_event,03-08-2025 19:51
+946,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,02-09-2025 17:02
+947,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,01-08-2025 12:22
+948,"Closing ceremony tonight, what an incredible week it's been! #MITFest",cultural_fest,17-08-2025 03:30
+949,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,15-09-2025 16:32
+950,It's Sports Day! Watching the track and field events now.,sports_event,24-08-2025 21:51
+951,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,29-06-2025 21:15
+952,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,13-08-2025 14:46
+953,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,31-08-2025 06:05
+954,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,18-08-2025 22:03
+955,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,02-07-2025 13:51
+956,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,15-08-2025 23:06
+957,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,09-08-2025 05:53
+958,Learning Python with pandas and matplotlib at the data science workshop. So many possibilities! #DataScience,workshop,02-09-2025 18:41
+959,Super excited for the new 'Introduction to Quantum Computing' workshop next week!,workshop,15-09-2025 18:51
+960,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,23-08-2025 11:19
+961,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,14-07-2025 09:48
+962,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,25-06-2025 10:12
+963,The UI/UX design workshop was a game-changer. Finally understand wireframing.,workshop,16-08-2025 15:15
+964,Went to the film festival. The short films were incredibly creative.,other_event,24-06-2025 05:09
+965,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,23-06-2025 15:59
+966,Feeling exhausted but happy after the hackathon. Learned so much in just 24 hours.,hackathon,04-09-2025 12:31
+967,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,12-07-2025 22:07
+968,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,30-07-2025 19:03
+969,Excited for the startup pitching competition. So many innovative ideas!,other_event,21-08-2025 11:21
+970,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,05-08-2025 13:54
+971,The annual job fair is happening today. Networking with some great companies!,other_event,02-08-2025 07:23
+972,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,07-09-2025 23:22
+973,And the winners of the hackathon are announced! Congrats to all the participants.,hackathon,19-07-2025 23:55
+974,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,16-07-2025 02:07
+975,Attending an AI and ML workshop today. The hands-on labs are so helpful.,workshop,15-07-2025 21:15
+976,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,23-07-2025 16:32
+977,Ready for the live music concert tonight at the fest! 🎸 #MusicNight,cultural_fest,19-07-2025 10:21
+978,Went to the film festival. The short films were incredibly creative.,other_event,19-08-2025 21:01
+979,Soaking in the vibrant atmosphere at the cultural fest! The art and music are amazing. #CulturalFest,cultural_fest,23-07-2025 21:53
+980,Cheering on our team at the cricket finals. The crowd is electric! 🏏,sports_event,26-06-2025 21:45
+981,Went to the film festival. The short films were incredibly creative.,other_event,07-08-2025 22:51
+982,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,07-07-2025 02:28
+983,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,27-07-2025 20:13
+984,Just finished a fantastic workshop on ethical hacking. Feeling much more cyber-aware now.,workshop,02-09-2025 17:04
+985,The annual job fair is happening today. Networking with some great companies!,other_event,01-09-2025 08:15
+986,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,26-08-2025 06:16
+987,MIT's football team won the final! What a nail-biter of a match. ⚽,sports_event,27-07-2025 17:57
+988,Excited for the startup pitching competition. So many innovative ideas!,other_event,24-06-2025 20:38
+989,The annual swimming gala is next week. Time to hit the pool!,sports_event,22-06-2025 00:23
+990,The cultural parade was spectacular! So many beautiful traditional costumes.,cultural_fest,01-09-2025 03:41
+991,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,23-07-2025 06:56
+992,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,02-07-2025 19:50
+993,The food stalls at the cultural fest are a must-try! 🌮🍣 #Foodie,cultural_fest,09-09-2025 14:10
+994,Day two of the Cultural Fest is in full swing! Loved the dance performances this morning.,cultural_fest,15-08-2025 22:55
+995,"Our basketball team made it to the regional finals! Let's go, MIT!",sports_event,27-07-2025 23:12
+996,Pulling an all-nighter for the hackathon. Let's build something awesome! #CodeLife,hackathon,11-07-2025 21:52
+997,Problem statements for the hackathon are out. Time to start brainstorming!,hackathon,27-08-2025 15:31
+998,Open mic night tonight at the campus cafe. Time to listen to some new talent.,other_event,01-07-2025 13:53
+999,The annual job fair is happening today. Networking with some great companies!,other_event,24-08-2025 15:02
+1000,Attending a guest lecture on space exploration today. Mind blown! 🚀,other_event,18-09-2025 14:57
