@@ -15,3 +15,5 @@ PCA
 | Number of samples vs features | Less number of rows → unstable PCs                |
 | Missing values                | Covariance cannot be computed directly            |
 | Noise                         | May appear in low-variance PCs                    |
+
+
