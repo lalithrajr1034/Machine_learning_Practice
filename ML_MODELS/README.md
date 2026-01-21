@@ -11,4 +11,11 @@ Dimensionality Reduction
    model.explained_variance_
    model.explained_variance_ratio_
    model.components_ 
-   
+
+
+
+METRICS
+   Regression     → error-based metrics
+   Classification → accuracy & confusion-matrix–based metrics
+   Clustering     → distance & cohesion metrics
+   Time series    → forecast error metrics
