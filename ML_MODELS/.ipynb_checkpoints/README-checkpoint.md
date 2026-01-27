@@ -1,6 +1,6 @@
 SUPERVISED
 Regresion
-  *simple_linear_regresion
+  *Linear_regresion
    m = model.coef_
    c = model.intercept_
 
