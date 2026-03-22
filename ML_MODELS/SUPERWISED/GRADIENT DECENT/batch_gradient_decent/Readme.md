@@ -2,3 +2,7 @@ here in every epoch intercept value are multiplying to a every row of a data set
 
 
 This is also Online Machine Leanring
+
+
+Notes: 
+https://1drv.ms/o/c/f9370e894a534229/IgBoBS1WjWYDTb-R-6SLLeFEAdk94Fs8F1uXEIHJ8FxLIzw?e=QcqlDl
